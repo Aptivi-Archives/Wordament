@@ -1,0 +1,54 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Wordament
+  name: Wordament
+  href: api/Wordament.html
+  commentId: N:Wordament
+  fullName: Wordament
+  nameWithType: Wordament
+- uid: Wordament.WordManager
+  name: WordManager
+  href: api/Wordament.WordManager.html
+  commentId: T:Wordament.WordManager
+  fullName: Wordament.WordManager
+  nameWithType: WordManager
+- uid: Wordament.WordManager.GetRandomWord
+  name: GetRandomWord()
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWord
+  commentId: M:Wordament.WordManager.GetRandomWord
+  fullName: Wordament.WordManager.GetRandomWord()
+  nameWithType: WordManager.GetRandomWord()
+- uid: Wordament.WordManager.GetRandomWord*
+  name: GetRandomWord
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWord_
+  commentId: Overload:Wordament.WordManager.GetRandomWord
+  isSpec: "True"
+  fullName: Wordament.WordManager.GetRandomWord
+  nameWithType: WordManager.GetRandomWord
+- uid: Wordament.WordManager.GetRandomWordConditional(System.Int32,System.String,System.String)
+  name: GetRandomWordConditional(Int32, String, String)
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditional_System_Int32_System_String_System_String_
+  commentId: M:Wordament.WordManager.GetRandomWordConditional(System.Int32,System.String,System.String)
+  fullName: Wordament.WordManager.GetRandomWordConditional(System.Int32, System.String, System.String)
+  nameWithType: WordManager.GetRandomWordConditional(Int32, String, String)
+- uid: Wordament.WordManager.GetRandomWordConditional*
+  name: GetRandomWordConditional
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditional_
+  commentId: Overload:Wordament.WordManager.GetRandomWordConditional
+  isSpec: "True"
+  fullName: Wordament.WordManager.GetRandomWordConditional
+  nameWithType: WordManager.GetRandomWordConditional
+- uid: Wordament.WordManager.InitializeWords
+  name: InitializeWords()
+  href: api/Wordament.WordManager.html#Wordament_WordManager_InitializeWords
+  commentId: M:Wordament.WordManager.InitializeWords
+  fullName: Wordament.WordManager.InitializeWords()
+  nameWithType: WordManager.InitializeWords()
+- uid: Wordament.WordManager.InitializeWords*
+  name: InitializeWords
+  href: api/Wordament.WordManager.html#Wordament_WordManager_InitializeWords_
+  commentId: Overload:Wordament.WordManager.InitializeWords
+  isSpec: "True"
+  fullName: Wordament.WordManager.InitializeWords
+  nameWithType: WordManager.InitializeWords
