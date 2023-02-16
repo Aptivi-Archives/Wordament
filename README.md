@@ -1,35 +1,67 @@
+
+<div align = center>
+
+<br>
+<br>
+    
+<img
+  src = 'https://cdn.jsdelivr.net/gh/Aptivi/Wordament@main/Wordament/OfficialAppIcon-Wordament-512.png'
+  width = 256
+  align = center
+/>
+
+<br>
+
 # Wordament
+    
+*A library that hosts all 400k words.*
 
-Wordament is a library that hosts all 400k words, taken from [this list](https://github.com/dwyl/english-words) licensed with the [Unlicense](https://github.com/dwyl/english-words/blob/master/LICENSE.md).
+<br>
+<br>
 
-## Credits
+[![Badge Main]][Main]   
+[![Badge Main Linux]][Main Linux]
 
-| Credited | For 
-|:---------|:----
-| [dwyl](https://github.com/dwyl) | [Word list](https://github.com/dwyl/english-words)
+[![Badge Latest]][Latest]   
+[![Badge NuGet]][NuGet]
 
-## License
+![Badge Size]   
+[![Badge Downloads]][Releases]
 
-```
-MIT License
+[![Button Manual]][Manual]   
+[![Button Libraries]][Libraries]
 
-Copyright (c) 2023 Aptivi
+</div>
+    
+<br>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+</div>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+<!----------------------------------------------------------------------------->
+
+[Releases]: https://github.com/Aptivi/Wordament/releases
+[Latest]: https://github.com/Aptivi/Wordament/releases/latest
+[NuGet]: https://www.nuget.org/packages/Wordament/
+
+[Main]: https://github.com/Aptivi/Wordament/actions/workflows/build-win.yml
+[Main Linux]: https://github.com/Aptivi/Wordament/actions/workflows/build-linux.yml
+
+[Libraries]: https://aptivi.gitbook.io/wordament-manual/project-dependencies
+[Manual]: https://aptivi.gitbook.io/wordament-manual/
+
+<!----------------------------------[ Badges ]--------------------------------->
+
+[Badge Downloads]: https://img.shields.io/github/downloads/Aptivi/Wordament/total?color=217346&label=Downloads&style=for-the-badge&logoColor=white&logo=DocuSign&labelColor=2d9d5f
+[Badge Latest]: https://img.shields.io/github/v/release/Aptivi/Wordament?color=212121&include_prereleases&label=github&style=for-the-badge&logoColor=white&logo=AzureArtifacts&labelColor=303030
+[Badge NuGet]: https://img.shields.io/nuget/vpre/Wordament?color=012f52&style=for-the-badge&logoColor=white&logo=NuGet&labelColor=004880
+[Badge Size]: https://img.shields.io/github/repo-size/Aptivi/Wordament?color=bb4a28&label=size&logoColor=white&style=for-the-badge&logo=GoogleAnalytics&labelColor=E85C33
+
+[Badge Main]: https://github.com/Aptivi/Wordament/actions/workflows/build-win.yml/badge.svg
+[Badge Main Linux]: https://github.com/Aptivi/Wordament/actions/workflows/build-linux.yml/badge.svg
+
+
+<!---------------------------------[ Buttons ]--------------------------------->
+
+[Button Libraries]: https://img.shields.io/badge/Libraries-EA8220?style=for-the-badge&logoColor=white&logo=AzureArtifacts
+[Button Manual]: https://img.shields.io/badge/Docs-blueviolet?style=for-the-badge&logoColor=white&logo=GitBook
