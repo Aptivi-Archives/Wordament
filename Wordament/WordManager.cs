@@ -72,19 +72,22 @@ namespace Wordament
         /// <param name="wordMaxLength">The maximum length of the word</param>
         /// <param name="wordStartsWith">The word starts with...</param>
         /// <param name="wordEndsWith">The word ends with...</param>
+        /// <param name="wordExactLength">The exact length of the word</param>
         /// <returns>A random word</returns>
-        public static string GetRandomWordConditional(int wordMaxLength, string wordStartsWith, string wordEndsWith)
+        public static string GetRandomWordConditional(int wordMaxLength, string wordStartsWith, string wordEndsWith, int wordExactLength)
         {
             // Get an initial word
             string word = GetRandomWord();
             bool lengthCheck = wordMaxLength > 0;
             bool startsCheck = !string.IsNullOrWhiteSpace(wordStartsWith);
             bool endsCheck = !string.IsNullOrWhiteSpace(wordEndsWith);
+            bool exactLengthCheck = wordExactLength > 0;
 
             // Loop until all the conditions that need to be checked are satisfied
             while (!(((lengthCheck && word.Length <= wordMaxLength) || !lengthCheck) &&
                      ((startsCheck && word.StartsWith(wordStartsWith)) || !startsCheck) &&
-                     ((endsCheck && word.EndsWith(wordEndsWith)) || !endsCheck)))
+                     ((endsCheck && word.EndsWith(wordEndsWith)) || !endsCheck) &&
+                     ((exactLengthCheck && word.Length == wordExactLength) || !exactLengthCheck)))
                 word = GetRandomWord();
 
             // Get a word that satisfies all the conditions
