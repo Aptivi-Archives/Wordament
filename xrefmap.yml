@@ -26,12 +26,12 @@ references:
   isSpec: "True"
   fullName: Wordament.WordManager.GetRandomWord
   nameWithType: WordManager.GetRandomWord
-- uid: Wordament.WordManager.GetRandomWordConditional(System.Int32,System.String,System.String)
-  name: GetRandomWordConditional(Int32, String, String)
-  href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditional_System_Int32_System_String_System_String_
-  commentId: M:Wordament.WordManager.GetRandomWordConditional(System.Int32,System.String,System.String)
-  fullName: Wordament.WordManager.GetRandomWordConditional(System.Int32, System.String, System.String)
-  nameWithType: WordManager.GetRandomWordConditional(Int32, String, String)
+- uid: Wordament.WordManager.GetRandomWordConditional(System.Int32,System.String,System.String,System.Int32)
+  name: GetRandomWordConditional(Int32, String, String, Int32)
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditional_System_Int32_System_String_System_String_System_Int32_
+  commentId: M:Wordament.WordManager.GetRandomWordConditional(System.Int32,System.String,System.String,System.Int32)
+  fullName: Wordament.WordManager.GetRandomWordConditional(System.Int32, System.String, System.String, System.Int32)
+  nameWithType: WordManager.GetRandomWordConditional(Int32, String, String, Int32)
 - uid: Wordament.WordManager.GetRandomWordConditional*
   name: GetRandomWordConditional
   href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditional_
