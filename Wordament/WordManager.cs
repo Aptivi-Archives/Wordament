@@ -22,7 +22,6 @@
  * SOFTWARE.
  */
 
-using Extensification.StringExts;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -93,5 +92,9 @@ namespace Wordament
             // Get a word that satisfies all the conditions
             return word;
         }
+
+        private static string[] SplitNewLines(this string Str) =>
+            Str.Replace(Convert.ToChar(13).ToString(), "")
+               .Split(Convert.ToChar(10));
     }
 }
