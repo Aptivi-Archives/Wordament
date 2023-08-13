@@ -5,7 +5,7 @@
     <AssemblyTitle>Wordament</AssemblyTitle>
     <AssemblyDescription>Library of 400k words</AssemblyDescription>
     <Description>Library of 400k words</Description>
-    <Version>0.2.0</Version>
+    <Version>0.3.0</Version>
     <Authors>Aptivi</Authors>
     <DebugType>portable</DebugType>
     <AssemblyName>Wordament</AssemblyName>
@@ -22,8 +22,8 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <PackageIcon>OfficialAppIcon-Wordament-512.png</PackageIcon>
-    <AssemblyVersion>0.2.0</AssemblyVersion>
-    <PackageVersion>0.2.0</PackageVersion>
+    <AssemblyVersion>0.3.0</AssemblyVersion>
+    <PackageVersion>0.3.0</PackageVersion>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
