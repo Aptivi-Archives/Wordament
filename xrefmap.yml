@@ -26,6 +26,19 @@ references:
   isSpec: "True"
   fullName: Wordament.WordManager.GetRandomWord
   nameWithType: WordManager.GetRandomWord
+- uid: Wordament.WordManager.GetRandomWordAsync
+  name: GetRandomWordAsync()
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordAsync
+  commentId: M:Wordament.WordManager.GetRandomWordAsync
+  fullName: Wordament.WordManager.GetRandomWordAsync()
+  nameWithType: WordManager.GetRandomWordAsync()
+- uid: Wordament.WordManager.GetRandomWordAsync*
+  name: GetRandomWordAsync
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordAsync_
+  commentId: Overload:Wordament.WordManager.GetRandomWordAsync
+  isSpec: "True"
+  fullName: Wordament.WordManager.GetRandomWordAsync
+  nameWithType: WordManager.GetRandomWordAsync
 - uid: Wordament.WordManager.GetRandomWordConditional(System.Int32,System.String,System.String,System.Int32)
   name: GetRandomWordConditional(Int32, String, String, Int32)
   href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditional_System_Int32_System_String_System_String_System_Int32_
@@ -39,6 +52,45 @@ references:
   isSpec: "True"
   fullName: Wordament.WordManager.GetRandomWordConditional
   nameWithType: WordManager.GetRandomWordConditional
+- uid: Wordament.WordManager.GetRandomWordConditionalAsync(System.Int32,System.String,System.String,System.Int32)
+  name: GetRandomWordConditionalAsync(Int32, String, String, Int32)
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditionalAsync_System_Int32_System_String_System_String_System_Int32_
+  commentId: M:Wordament.WordManager.GetRandomWordConditionalAsync(System.Int32,System.String,System.String,System.Int32)
+  fullName: Wordament.WordManager.GetRandomWordConditionalAsync(System.Int32, System.String, System.String, System.Int32)
+  nameWithType: WordManager.GetRandomWordConditionalAsync(Int32, String, String, Int32)
+- uid: Wordament.WordManager.GetRandomWordConditionalAsync*
+  name: GetRandomWordConditionalAsync
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditionalAsync_
+  commentId: Overload:Wordament.WordManager.GetRandomWordConditionalAsync
+  isSpec: "True"
+  fullName: Wordament.WordManager.GetRandomWordConditionalAsync
+  nameWithType: WordManager.GetRandomWordConditionalAsync
+- uid: Wordament.WordManager.GetWords
+  name: GetWords()
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetWords
+  commentId: M:Wordament.WordManager.GetWords
+  fullName: Wordament.WordManager.GetWords()
+  nameWithType: WordManager.GetWords()
+- uid: Wordament.WordManager.GetWords*
+  name: GetWords
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetWords_
+  commentId: Overload:Wordament.WordManager.GetWords
+  isSpec: "True"
+  fullName: Wordament.WordManager.GetWords
+  nameWithType: WordManager.GetWords
+- uid: Wordament.WordManager.GetWordsAsync
+  name: GetWordsAsync()
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetWordsAsync
+  commentId: M:Wordament.WordManager.GetWordsAsync
+  fullName: Wordament.WordManager.GetWordsAsync()
+  nameWithType: WordManager.GetWordsAsync()
+- uid: Wordament.WordManager.GetWordsAsync*
+  name: GetWordsAsync
+  href: api/Wordament.WordManager.html#Wordament_WordManager_GetWordsAsync_
+  commentId: Overload:Wordament.WordManager.GetWordsAsync
+  isSpec: "True"
+  fullName: Wordament.WordManager.GetWordsAsync
+  nameWithType: WordManager.GetWordsAsync
 - uid: Wordament.WordManager.InitializeWords
   name: InitializeWords()
   href: api/Wordament.WordManager.html#Wordament_WordManager_InitializeWords
@@ -52,3 +104,16 @@ references:
   isSpec: "True"
   fullName: Wordament.WordManager.InitializeWords
   nameWithType: WordManager.InitializeWords
+- uid: Wordament.WordManager.InitializeWordsAsync
+  name: InitializeWordsAsync()
+  href: api/Wordament.WordManager.html#Wordament_WordManager_InitializeWordsAsync
+  commentId: M:Wordament.WordManager.InitializeWordsAsync
+  fullName: Wordament.WordManager.InitializeWordsAsync()
+  nameWithType: WordManager.InitializeWordsAsync()
+- uid: Wordament.WordManager.InitializeWordsAsync*
+  name: InitializeWordsAsync
+  href: api/Wordament.WordManager.html#Wordament_WordManager_InitializeWordsAsync_
+  commentId: Overload:Wordament.WordManager.InitializeWordsAsync
+  isSpec: "True"
+  fullName: Wordament.WordManager.InitializeWordsAsync
+  nameWithType: WordManager.InitializeWordsAsync
