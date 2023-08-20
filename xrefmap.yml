@@ -40,11 +40,14 @@ references:
   fullName: Wordament.WordManager.GetRandomWordAsync
   nameWithType: WordManager.GetRandomWordAsync
 - uid: Wordament.WordManager.GetRandomWordConditional(System.Int32,System.String,System.String,System.Int32)
-  name: GetRandomWordConditional(Int32, String, String, Int32)
+  name: GetRandomWordConditional(int, string, string, int)
   href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditional_System_Int32_System_String_System_String_System_Int32_
   commentId: M:Wordament.WordManager.GetRandomWordConditional(System.Int32,System.String,System.String,System.Int32)
-  fullName: Wordament.WordManager.GetRandomWordConditional(System.Int32, System.String, System.String, System.Int32)
-  nameWithType: WordManager.GetRandomWordConditional(Int32, String, String, Int32)
+  name.vb: GetRandomWordConditional(Integer, String, String, Integer)
+  fullName: Wordament.WordManager.GetRandomWordConditional(int, string, string, int)
+  fullName.vb: Wordament.WordManager.GetRandomWordConditional(Integer, String, String, Integer)
+  nameWithType: WordManager.GetRandomWordConditional(int, string, string, int)
+  nameWithType.vb: WordManager.GetRandomWordConditional(Integer, String, String, Integer)
 - uid: Wordament.WordManager.GetRandomWordConditional*
   name: GetRandomWordConditional
   href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditional_
@@ -53,11 +56,14 @@ references:
   fullName: Wordament.WordManager.GetRandomWordConditional
   nameWithType: WordManager.GetRandomWordConditional
 - uid: Wordament.WordManager.GetRandomWordConditionalAsync(System.Int32,System.String,System.String,System.Int32)
-  name: GetRandomWordConditionalAsync(Int32, String, String, Int32)
+  name: GetRandomWordConditionalAsync(int, string, string, int)
   href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditionalAsync_System_Int32_System_String_System_String_System_Int32_
   commentId: M:Wordament.WordManager.GetRandomWordConditionalAsync(System.Int32,System.String,System.String,System.Int32)
-  fullName: Wordament.WordManager.GetRandomWordConditionalAsync(System.Int32, System.String, System.String, System.Int32)
-  nameWithType: WordManager.GetRandomWordConditionalAsync(Int32, String, String, Int32)
+  name.vb: GetRandomWordConditionalAsync(Integer, String, String, Integer)
+  fullName: Wordament.WordManager.GetRandomWordConditionalAsync(int, string, string, int)
+  fullName.vb: Wordament.WordManager.GetRandomWordConditionalAsync(Integer, String, String, Integer)
+  nameWithType: WordManager.GetRandomWordConditionalAsync(int, string, string, int)
+  nameWithType.vb: WordManager.GetRandomWordConditionalAsync(Integer, String, String, Integer)
 - uid: Wordament.WordManager.GetRandomWordConditionalAsync*
   name: GetRandomWordConditionalAsync
   href: api/Wordament.WordManager.html#Wordament_WordManager_GetRandomWordConditionalAsync_
